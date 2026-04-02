@@ -16,7 +16,8 @@
 
 - **路径：** [你的数据目录]/data/plugins/siyuan-plugin-dict
 - **示例：** D:\SiYuanData\data\plugins\siyuan-plugin-dict
-
+- 
+(因为用的是硬编码, 所以插件文件名一定要是"siyuan-plugin-dict", 不然会用不了)
 ------
 
 
