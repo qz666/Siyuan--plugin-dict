@@ -1,0 +1,20 @@
+{
+  "name": "siyuan-plugin-dict",
+  "author": "you",
+  "url": "",
+  "version": "1.0.0",
+  "minAppVersion": "2.12.0",
+  "backends": ["all"],
+  "frontends": ["all"],
+  "displayName": {
+    "default": "ECDICT Popup Dictionary",
+    "zh_CN": "划词翻译（ECDICT）"
+  },
+  "description": {
+    "default": "Select English words to show Chinese translation from ECDICT",
+    "zh_CN": "基于 ECDICT 词典数据库的划词翻译，离线可用，按词性分组显示"
+  },
+  "i18n": ["zh_CN", "en_US"],
+  "funding": {},
+  "keywords": ["dictionary", "translate", "ecdict"]
+}
