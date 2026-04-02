@@ -58,19 +58,25 @@
 
 **插件管理界面：**
 
-![CopyQ.XljQGc](D:\思源笔记\data\plugins\siyuan-plugin-dict\pic\CopyQ.XljQGc.png)
+![CopyQ.XljQGc](pic/CopyQ.XljQGc.png)
+
+
 
 
 
 **查词效果：**
 
-![CopyQ.OYAueq](D:\思源笔记\data\plugins\siyuan-plugin-dict\pic\CopyQ.OYAueq.png)
+![CopyQ.OYAueq](pic/CopyQ.OYAueq.png)
 
 
 
 
 
-![CopyQ.YTQxQl](D:\思源笔记\data\plugins\siyuan-plugin-dict\pic\CopyQ.YTQxQl.png)
+
+
+![CopyQ.YTQxQl](pic/CopyQ.YTQxQl.png)
+
+
 
 ### 3. 自定义扩展
 

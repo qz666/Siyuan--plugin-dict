@@ -1,5 +1,7 @@
-# 忽略词典数据文件夹
-dict/
+# 忽略 dict 文件夹里的所有内容
+dict/*
+# 但是不要忽略 .gitkeep 文件
+!dict/.gitkeep
 
 # 忽略 Node.js 依赖包
 node_modules/
